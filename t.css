@@ -1,0 +1,331 @@
+ body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO3Ex8cwoFvXzCAxdWAh7kNR6sHfrM9yy-MQ&s");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    
+    
+   
+    
+ }
+.first img{
+width: 70px;
+margin-top: auto;
+
+}
+
+.sec img{
+    width: 30px;
+    margin-left: 200pt;
+
+
+}
+.thre h3{
+    margin-left: 300px;
+    margin-top: -25px;
+    text-decoration-color: aliceblue;
+    color: #e4d9d9;
+
+}
+.fo p{
+    margin-left: 800px;
+    color: #e6dbdb;
+    margin-top: +40;
+
+}
+.fiv p{
+margin-left: +900px;
+color: #faebeb;
+margin-top: -33px;
+}
+.six p{
+    margin-left: +1009px;
+    color: aliceblue;
+    margin-top: -34px;
+
+}
+.sev h2{
+    margin-left: +600px;
+    margin-top: +100pX;
+    color: #e2dfdf;
+    font-style: italic;
+    position: absolute;
+    
+}
+.e{
+    width: 46%;
+    background-color: rgb(107, 107, 226);
+    margin-left: 600px;
+    margin-top: 200px;
+      
+}
+.ni {
+
+    margin-left: 700px;
+    color: #eee7e7;
+    font-style: oblique;
+    
+
+}
+.ten{
+    margin-left: 600px;
+    color: #e9e3e3;
+
+}
+.ela img{
+width: 40px;
+margin-left: 200px;
+margin-bottom: -28px;
+height: 30px;
+
+}
+.TL {
+    background-color: #e4d9d9;
+    background-size: 100%;
+    color: rgb(33, 37, 41);
+    margin-left: 200px;
+    font-style: italic;
+
+}
+.p {
+    background-color: #e2dfdf;
+    color: #161313;
+    margin-left: 200px;
+    
+}
+
+.p :nth-child(2){
+    margin-top: -15px;
+}
+.p :nth-child(3){
+    margin-top: -15px;
+    
+}
+.p :nth-last-child(1){
+    margin-top: -15px;
+
+}
+
+.t img{
+    margin-left: 540px;
+    width: 30px;
+
+}
+.t  {
+    margin-top: -150px;
+
+}
+.h2{
+    font-style: italic;
+    color: #1b1919;
+    margin-left: 540px;
+    margin-top: -43px;
+
+}
+
+.k{
+ margin-left: 560px;
+}
+  
+.k:nth-child(2){
+    margin-top: -10px;
+}
+.k :nth-child(3){
+    margin-top: -15px;
+    
+}
+.k :nth-last-child(1){
+    margin-top: -10px;
+
+}
+.m img{
+    margin-left: 960px;
+    width: 30px;
+    margin-bottom: 400px;
+
+}
+.m img{
+    margin-top: -180px;
+
+}
+.C{
+ margin-left: 930px;
+ margin-top: -430px;
+ font-style: italic;
+}
+
+.f :nth-child(2){
+    margin-top: -15px;
+}
+.f :nth-child(3){
+    margin-top: -15px;
+    
+}
+.f :nth-last-child(1){
+    margin-top: -15px;
+
+}
+.f{
+margin-left: 920px;
+}
+.di img{
+margin-left: 600px;
+height: 100px;
+}
+.GI{
+    color: #e4d9d9;
+ margin-left: 640px;
+ margin-top: -80px;
+}
+.r{
+margin-left: 670px;
+
+}
+
+.r img{
+    width: 60px;
+    margin-top: 40px;
+
+}
+.y{
+    margin-left: 650px;
+    color: #af9e9e;
+}
+.ht{
+    margin-left: 580px;
+    color: #f0e6e6;
+}
+.p2{
+    background-color: #e2dfdf;
+    background-position: 100%;
+    margin-left: 20px;
+        color: #330d0d;
+        margin-bottom: -50px;
+}
+.ee{
+    margin-left: 250px;
+   
+}
+.ee img{
+width: 100px;
+}
+.yi{
+margin-left: 500px;
+margin-top: -50px;
+
+}
+.yi img{
+    width: 100px;
+}
+.ki{
+margin-left: 800px;
+
+}
+.ki img{
+    width: 50px;
+    margin-top: -80px;
+
+}
+.qi img{
+    margin-left: 1000px;
+    width: 50px;
+height: 50px;
+margin-top: -68px;
+}
+.pp img{
+margin-left: 170px;
+width: 70px;
+}
+.n{
+    margin-left: 180px;
+    margin-top: -70px;
+    color: #e9dfdf;
+}
+.GO{
+    color: #e6dbdb;
+    margin-left: 280px;
+    margin-top: -60px;
+    font-style: italic;
+}
+.st img{
+    width: 80px;
+    margin-left: 280px;
+    margin-top: -80px;
+
+}
+.pu{
+ margin-left: 380px;
+ color: #e2dfdf;
+ margin-top: -40px;
+}
+.w :nth-child(2){
+    margin-top: -15px;
+}
+.w :nth-child(3){
+    margin-top: -15px;
+    
+}
+.w :nth-last-child(1){
+    margin-top: -15px;
+
+}
+.w{
+    background-color: #e4d9d9;
+    color: #141010;
+margin-left: 500px;
+}
+.w{
+    margin-top: -80px;
+
+}
+.tr img{
+
+width: 80px;
+margin-left: 170px;
+}
+.b img{
+    margin-left: 800px;
+    width: 600px;
+
+}
+.hh{
+    margin-left: 40px;
+    color: #d4cccc;
+    margin-top: -400px;
+    margin-left: 400px;
+}
+.Z{
+background-color: #e2dfdf;
+ margin-left: 310px;
+ color: #180e0e;
+
+}
+
+.ss :nth-child(2){
+    margin-top: -15px;
+}
+.ss :nth-child(3){
+    margin-top: -15px;
+    
+}
+.ss :nth-last-child(1){
+    margin-top: -15px;
+
+}
+.ss{
+margin-left: 310px;
+color: #e9e3e3;
+}
+.ss :nth-child(4){
+margin-bottom: -32px;
+
+}
+.aa img{
+    margin-left: 300px;
+    width: 130px;
+}
+.up{
+    color: #e6dbdb;
+    margin-left:310px;
+    margin-top: -60px;
+}
